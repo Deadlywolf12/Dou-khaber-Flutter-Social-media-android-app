@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133958366051",
+    "project_id": "doukhaber",
+    "storage_bucket": "doukhaber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133958366051:android:b3a198f6581230a5971956",
+        "android_client_info": {
+          "package_name": "com.example.cinepopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133958366051-65dqmi1fnctl7pfgs6i0pjkojmcglgop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgegil-VO49UvHhHCJDfgbvhL596Lqghk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133958366051-65dqmi1fnctl7pfgs6i0pjkojmcglgop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
